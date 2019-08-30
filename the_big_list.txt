@@ -6,3 +6,5 @@ Asiago
 Feta
 Goat
 Manchego
+Ricotta
+Cheddar
