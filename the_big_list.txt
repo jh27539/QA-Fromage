@@ -6,3 +6,4 @@ Asiago
 Feta
 Goat
 Manchego
+Ricotta
